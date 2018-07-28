@@ -13,7 +13,9 @@ To test some program from this repository, you need to have Java installed on yo
 ## Running the tests
 
 Once you have installed the Java virtual machine, to test some program, you only have to go to your command prompt, and gowhere the program is:
-![alt text][example1](https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example1.png "Example 1")
+```
+C:\Users\Joao Victor>cd C:\Users\Joao Victor\Documents\Repositorios\uri-exercises\beginners\1012 - Área
+```
 
 
 Then compile the program:
