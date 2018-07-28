@@ -17,12 +17,27 @@ Once you have installed the Java virtual machine, to test some program, you only
 C:\Users\Joao Victor>cd C:\Users\Joao Victor\Documents\Repositorios\uri-exercises\beginners\1012 - Área
 ```
 
-
 Then compile the program:
-![alt text][example2](https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example2.png "Example 2")
+```
+C:\Users\Joao Victor\Documents\Repositorios\uri-exercises\beginners\1012 - Área>javac Main.java
+```
 
 And now just run:
-![alt text][example3](https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example3.png "Example 3")
+```
+C:\Users\Joao Victor\Documents\Repositorios\uri-exercises\beginners\1012 - Área>java Main
+3
+5
+9.8
+```
+
+In this case, program 1012 will return you:
+```
+TRIANGULO: 14,700
+CIRCULO: 301,718
+TRAPEZIO: 39,200
+QUADRADO: 25,000
+RETANGULO: 15,000
+```
 
 ## Author
 
