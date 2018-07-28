@@ -13,16 +13,14 @@ To test some program from this repository, you need to have Java installed on yo
 ## Running the tests
 
 Once you have installed the Java virtual machine, to test some program, you only have to go to your command prompt, and gowhere the program is:
-![alt text][example1]
-[example1]: https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example1.png
+![alt text][example1](https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example1.png "Example 1")
+
 
 Then compile the program:
-![alt text][example2]
-[example2]: https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example2.png
+![alt text][example2](https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example2.png "Example 2")
 
 And now just run:
-![alt text][example3]
-[example3]: https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example3.png
+![alt text][example3](https://github.com/joaovictorpsantos/uri-exercises/blob/master/img/example3.png "Example 3")
 
 ## Author
 
